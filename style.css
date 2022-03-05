@@ -1,0 +1,31 @@
+.card{
+    width: 500px;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+a{
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid red;
+    margin-top: 10px;
+    color: aliceblue;
+    background-color: blue;
+}
